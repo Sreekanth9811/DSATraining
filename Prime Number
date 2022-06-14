@@ -5,7 +5,7 @@ public class Main
         Scanner sc = new Scanner(System.in);
      int Number=  sc.nextInt();
      int i;
-     for(i=2;i<Number/2;i++)
+     for(i=2;i<Math.sqrt(Number);i++)
      {
          if(Number%i==0)
             break;
