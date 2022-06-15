@@ -19,6 +19,9 @@ class Solution {
 }
 
 /*
+
+url: https://leetcode.com/problems/longest-common-prefix/
+
 Input: strs = ["flower","flow","flight"]
 Output: "fl"
 
